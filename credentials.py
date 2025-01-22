@@ -1,0 +1,6 @@
+api_user = ''
+api_key = ''
+username = ''
+client_ip = ''
+domain = 'your-email-alias-domain.com'
+alias_email = 'yourname@gmail.com'
